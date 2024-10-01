@@ -1,0 +1,3 @@
+Cliente{idCliente=7069, nombreCliente=Leonardo Olivares, telefono=930985129}
+Cliente{idCliente=3905, nombreCliente=Gabriela, telefono=978785634}
+Cliente{idCliente=4255, nombreCliente=Ximena, telefono=978563412}
